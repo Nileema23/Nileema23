@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nileema</h1>
-<h3 align="center">A passionate FullStack developer.</h3>
+<h3 align="center">A passionate FullStack Developer.</h3>
 <img align= "right" alt="Coding" width= "400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileema23&label=Profile%20views&color=0e75b6&style=flat" alt="nileema23" /> </p>
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **Python,Java, JavaScript, HTML, CSS, C, React, Flutter, MySQL**
 
 - 📫 How to reach me **shresthan@merrimack.edu**
 
